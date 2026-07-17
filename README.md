@@ -1,12 +1,10 @@
-<p align="center">
-  <img src="URL_DE_TU_FOTO_AQUÍ.jpg" alt="Foto de Juan Diego Rubio" style="border-radius: 50%; max-width: 200px; display: block; margin: 0 auto; margin-bottom: 20px;">
-</p>
+
 
 ## desarrollador de software — Juan Diego Rubio<img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" /> 
 
 <p align="center">
   <a href="https://github.com/juanchunibyo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Juan+Diego+desde+C%C3%BAcuta%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Tecn%C3%B3logo+en+An%C3%A1lisis+y+Desarrollo+de+Software+%F0%9F%87%B8%F0%9F%87%B1;Buscando+oportunidades+de+Pr%C3%A1cticas+%2F+Pasant%C3%ADas+%F0%9F%92%BC;Enfocado+en+Desarrollo+Backend%2C+Frontend+y+Bases+de+Datos+%F0%9F%93%84;%C2%A1Bienvenido+a+mi+GitHub!+%F0%9F%8D%A8">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Juan+Diego%F0%9F%87%A8%F0%9F%87%B4;Tecn%C3%B3logo+en+An%C3%A1lisis+y+Desarrollo+de+Software+%F0%9F%87%B8%F0%9F%87%B1;Enfocado+en+Desarrollo+Backend%2C+Frontend+y+Bases+de+Datos+%F0%9F%93%84;%C2%A1Bienvenido+a+mi+GitHub!+%F0%9F%8D%A8">
   </a>
 </p>
 
@@ -17,6 +15,18 @@
 - **¡Hola! Soy Juan Diego Rubio Jiménez**, apasionado por la tecnología y el desarrollo de software 💻
 - Tecnólogo egresado en **Análisis y Desarrollo de Software**
 - Enfocado principalmente en el desarrollo Full-Stack utilizando arquitecturas limpias (MVC) y optimización de bases de datos 
+
+### Mis Redes 🌐
+
+<a href="https://www.linkedin.com/in/juan-diego-rubio-jimenez-74b710333" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:juanchunibyo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.instagram.com/juanchunibyo/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 
 ### Stack Tecnológico 🛠️
