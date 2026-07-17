@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/juanchunibyo">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Juan+Diego%F0%9F%87%A8%F0%9F%87%B4;Tecn%C3%B3logo+en+An%C3%A1lisis+y+Desarrollo+de+Software+%F0%9F%87%B8%F0%9F%87%B1;Enfocado+en+Desarrollo+Backend%2C+Frontend+y+Bases+de+Datos+%F0%9F%93%84;%C2%A1Bienvenido+a+mi+GitHub!+%F0%9F%8D%A8">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=1100&height=40&lines=Hola%2C+soy+Juan+Diego;Tecn%C3%B3logo+en+An%C3%A1lisis+y+Desarrollo+de+Software+%F0%9F%87%B8%F0%9F%87%B1;Enfocado+en+Desarrollo+Backend%2C+Frontend+y+Bases+de+Datos+%F0%9F%93%84;%C2%A1Bienvenido+a+mi+GitHub!+%F0%9F%8D%A8">
   </a>
 </p>
 
