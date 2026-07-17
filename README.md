@@ -54,8 +54,7 @@
     *Sistema web de asignación de horarios para evitar conflictos de instructores y aulas. Desarrollado con PHP Vanilla bajo arquitectura MVC y base de datos PostgreSQL.*
 *   **Digiturno - Gestión de Colas**  
     *Colaboración en equipo para una entidad de empleo pública, donde lideré el diseño y la maquetación frontend de la interfaz de turnos prioritarios y normales.*
-*   **Simulador de Torneo - Java**  
-    *Proyecto de simulación del Mundial utilizando matrices multidimensionales y persistencia de datos con SQL para el cálculo de recompensas de fichas.*
+
 
 <br>
 
